@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ejecicio1 {
+public class Ejercicio1 {
 
     public static void main(String[] args){
        // System.out.println(MiInformacion());
